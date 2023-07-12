@@ -1,0 +1,1 @@
+#### This repo compares a functional component to a class-based component in React.
